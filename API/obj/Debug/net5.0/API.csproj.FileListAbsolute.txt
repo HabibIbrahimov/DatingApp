@@ -55,3 +55,14 @@ C:\Users\ihebi\DatingApp\API\obj\Debug\net5.0\API.pdb
 C:\Users\ihebi\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 C:\Users\ihebi\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\ihebi\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ihebi\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ihebi\DatingApp\API\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\ihebi\DatingApp\API\bin\Debug\net5.0\Hangfire.Core.dll
+C:\Users\ihebi\DatingApp\API\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\ihebi\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ihebi\DatingApp\API\bin\Debug\net5.0\SimpleInjector.dll
+C:\Users\ihebi\DatingApp\API\bin\Debug\net5.0\Turner.Infrastructure.Crud.dll
+C:\Users\ihebi\DatingApp\API\bin\Debug\net5.0\Turner.Infrastructure.Crud.EntityFrameworkCore.dll
+C:\Users\ihebi\DatingApp\API\bin\Debug\net5.0\Turner.Infrastructure.Mediator.dll
+C:\Users\ihebi\DatingApp\API\bin\Debug\net5.0\es\Hangfire.Core.resources.dll
+C:\Users\ihebi\DatingApp\API\bin\Debug\net5.0\zh\Hangfire.Core.resources.dll

@@ -58,6 +58,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "Turner.Infrastructure.Crud.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.2, )"
             }
           },
           "imports": [
